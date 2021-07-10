@@ -1,12 +1,28 @@
-### Hi there 👋
-#### I am a developer with 2 years of experience. My main programming language is C/C++.
-#####
-#####
-#####
-##### CP
+### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsjeong%2Fmsjeong&count_bg=%23343148&title_bg=%23D7C49E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+* I am a developer with 2 years of experience. My main programming language is C/C++.
+
+![]()
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+![]()
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+![]()
+<img alt="git-stats" align="center" src="https://github-readme-stats.vercel.app/api?username=RyanJeong&show_icons=true"/>
+
 ###### I love programming and problem-solving!
-<img alt="BOJ" src="https://img.shields.io/badge/BOJ-0076c0?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAACKgAwAEAAAAAQAAACIAAAAA0PcZ9QAAAAlwSFlzAAAWJQAAFiUBSVIk8AAABM5JREFUWAntVltMXFUUXfMehoHClPcb0wIdnrYIPmiLVNS2WqsmJlqLojXRamy0UeOfTT%2B0fpRoNNXQH40RjWACiVqxPmpTamlBCBSRx0CV1jLDcxgY5sHgPkfv7dyZC04%2FiP1gTybnnnP2OWfdtfde5yoWyXADmPIGwMAhrAIJjMQqIyEzYp12Yt97P6Lu5z4s%2BFa%2BsJYMzeBfU7DQ32TUQ6VUBL6ApM8UgIH1VwJhzBeiOqglO%2Fp1zvZeRcyaMNyUEOk3Gvw45%2FLg89MD0KiVqChIQZIpnDu5PAuoO90PvVqFchpPjDYEL%2FYbWZKRc32jfHFqrNHPXfo44%2FTgSEM7Pvy2G7PzHkSEaUQHDQEI06px%2FGQPamneZneKc3IPsoxMOObxh82BrXkp0GtkXeB0eVHT1IGmc0N45p5cVFXk8IOFQ1g4HyjNhHfBhw9OdEOjUuLAriIYdPL7yY6e6rpMVKtQkBEt7CtpnW4v3v%2B6C42%2FWPDktg3YvyNfMi90GCOPlK2Hg5irbe6GVqPCwd03C9OSVhbId50jRLMa5tS1EmfWsc%2B58empPnx1YRh778zG%2Fp3yIISFWsqdqopszBKD9Wf6oVIo8FSlGZEGreDC2yAg7KC2AStuz0mAKUIvcXZ7Fygx%2B%2FHFmQHsKE7HExUbOOUSJ5mOQafBs%2FfmglXQRz%2F0QkFgqrblIDpcJ3oHAem%2BNA7Pohq3ZSeITuzBQ7E%2B3tyDhpYBVBaloZpCEm28tpHEWaYTrtfgue150GtVxMwggQHPq6h%2FwQQBOT9gIz1YQGl2vLidx%2BvDsW%2B68clPvdhVksmTc20AW6LzMg9GAvP0XWYooUB9yyAv%2BT3l2YgM00IChIlSh8WK%2BEgd0uOu6Udt80XKi17csi4Orz60kSfdMuctO8WqhuWW0%2B3hDEcQiEe3ZBE4P7OMTmPM7iJhSvIbBUqy4hEVrseFQRt%2BG5kkxiTT190ZGZ9FCwlmAomcOdUEJcVJAqTn0gQc825UFqZJNi8mJg7tKSG51%2BGNula09o9yfZA4hdj5%2FfIUDn%2FWCtDLvPbwJhRmxvB8EYGwjGZvqyP9yM8ILtvSrAQcfvxWqFUKHG3sQLvFBq%2FPF%2BLx%2F7j9ahnD6x%2Bf5Sr8PJV9mTlRvMdEIOP2eQxbZ2BOM9Fh4rDkIMbMS6SOLDY1jZ3oGh5nLxaSnSdJONLQhjG61V%2FeXYTy%2FBQeEmGxeOKfYw5cmZhF8bpYYU62Zfnywn0FcHm8eLO%2BDcOjdlk%2F%2F8HOoTG829QJ6%2FQcavZtxmZzksiE4OcHZAZTdMcUZCwPhLHFNjpwfyEmZuZR%2Fc73mKR1S9kQAX37y3aw9mh1GTbRi6pkGOdA2M3Zf2UKyTFGRBml0rvUAVvzknHwQXZvLGJvzUmw75fAamIsv0WsXZ2cw6HHSpBPibmUcSBTsy4CMo1cKiVW16Ha9o3peIV0hdmxExd5aIW1c3S3MCW2UU68SOxtyU0OCofgy1ouaONE8bDVzqWbSfH12M7iDMSuMfBKcJMCC%2BZwunEHhZApcX6GiauoMCfXqlnZsoRT0I99BKn%2F47NQbpOS9XFBw3FRBtxdtPxXmf8ipY9knalpaU4iUilH%2Fi9T0EduqFKwohjF8l3RU0LYfBVIIEmrjAQy8jesLK3zkOj8kQAAAABJRU5ErkJggg%3D%3D"/>
 [![profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msjeong)](https://www.acmicpc.net/user/msjeong)
+
+
 
 
 <!--
@@ -22,4 +38,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+bedge ref: https://github.com/Ileriayo/markdown-badges
+#D7C49E
+#343148
 -->
